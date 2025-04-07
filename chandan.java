@@ -1,4 +1,4 @@
-class Chandan
+public class Chandan
 {
 public static void main(String args[])
   {
