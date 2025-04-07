@@ -2,6 +2,6 @@ public class Chandan
 {
 public static void main(String[] args)
   {
-    System.out.println("Hello Likhith")
+    System.out.println("Hello Likhith");
   }
 }
